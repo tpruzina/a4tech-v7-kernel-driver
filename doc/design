@@ -1,0 +1,35 @@
+VENDOR: 09da (A4TECH)
+ID:	7d1b (V7M)
+ID2:	70a8
+
+NUMBER OF USB INTERFACES: 3 (EP1..3, IN --> Device->Host)
+
+IFACE_1: Keyboard
+	EP: 1_IN
+	
+	C: 3
+	S: 1
+	P: 1
+
+	PACKET SIZE: 8B
+
+IFACE_2: Mouse
+	EP: 2_IN
+
+	C: 3
+	S: 1
+	P: 0
+
+	PACKET SIZE: 6B
+
+IFACE 3: Control
+	EP: 3_IN
+
+	C: 3
+	S: 0
+	P: 0
+
+	PACKET SIZE: 16B
+
+
+
