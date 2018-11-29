@@ -5,7 +5,8 @@ A4tech Bloody mice driver for linux kernel
 
 STATUS: DEAD (I don't own any A4Tech mices anymore)
 
-Simple PoC driver based on reversing windows driver with wireshark+usbmon. 
+Simple PoC kernel driver based on reversing windows driver with wireshark+usbmon
+written in 2014 (?). 
 
 (ignore) HELP WANTED
 =====================
